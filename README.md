@@ -1,2 +1,2 @@
 # Module_Use
-Studying modules of python like cryptography, numpy, fastapi etc.
+Studying modules of python like cryptography, numpy etc.
